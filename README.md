@@ -22,7 +22,10 @@ In old times, the github default branch name were ```master```. Nowadays, the de
 
 It is pretty easy to realize which branch name you should use. Check this saetting on the repository main page. For example, in [Primefaces](https://github.com/primefaces/primefaces) repository page you should see ```master``` as repository name:
 
+<img src="https://github.com/doleron/how-to-sync-fork-repo/raw/main/master_repo.png">
 
 In a new repository such as [V3DLib](https://github.com/wimrijnders/V3DLib) you should find ```main``` as default branch name:
+
+<img src="https://github.com/doleron/how-to-sync-fork-repo/raw/main/main_repository.png">
 
 
