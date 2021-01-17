@@ -1,5 +1,5 @@
 # how-to-sync-fork-repo
-Colaborating to open source projects? Here you will find instructions how to sync your fork repository!
+Collaborating to open source projects? Here you will find instructions how to sync your fork repository!
 
 # How to sync you fork repository - shortest explanation possible
 
