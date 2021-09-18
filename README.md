@@ -6,6 +6,8 @@ Collaborating to open source projects? Here you will find instructions how to sy
 ```
 $ git clone https://github.com/your_account/yor_fork.git
 
+$ cd yor_fork
+
 $ git remote add upstream https://github.com/repo_owner/source_repo.git
 
 $ git fetch upstream
